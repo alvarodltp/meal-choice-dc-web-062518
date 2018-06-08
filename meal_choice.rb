@@ -1,3 +1,3 @@
-def meal_choice(type = "vegan")
+def meal_choice(type = "meat")
   puts type
 end
